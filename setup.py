@@ -43,7 +43,8 @@ setup(name='fon.plonewebsite',
       ],
       extras_require={
           'test': [
-              'plone.app.testing',
+              'plone.app.testing[robot]>=4.2.2',
+              'plone.app.robotframework',
            ],
       },
       entry_points="""
