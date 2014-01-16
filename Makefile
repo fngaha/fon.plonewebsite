@@ -20,4 +20,4 @@ test:
 	bin/test
 
 cleanall:
-	rm -fr develop-eggs downloads eggs parts .installed.cfg
+	rm -fr bin develop-eggs include lib parts downloads eggs
