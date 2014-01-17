@@ -9,6 +9,3 @@ install:
   - python bootstrap.py -c travis.cfg
   - bin/buildout -c travis.cfg -N -q -t 3
 script: bin/$TARGET
-before_script:
-  - export DISPLAY=:99.0
-  - sh -e /etc/init.d/xvfb start
