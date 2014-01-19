@@ -1,4 +1,4 @@
-from  fon.plonewebsite.testing import FON_PLONEWEBSITE_FUNCTIONAL_TESTING
+from fon.plonewebsite.testing import FON_PLONEWEBSITE_FUNCTIONAL_TESTING
 from plone.testing import layered
 import robotsuite
 import unittest
@@ -11,3 +11,4 @@ def test_suite():
                 layer=FON_PLONEWEBSITE_FUNCTIONAL_TESTING)
     ])
     return suite
+
