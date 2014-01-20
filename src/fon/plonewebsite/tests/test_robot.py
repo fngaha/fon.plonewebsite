@@ -11,4 +11,3 @@ def test_suite():
                 layer=FON_PLONEWEBSITE_FUNCTIONAL_TESTING)
     ])
     return suite
-
