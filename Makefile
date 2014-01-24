@@ -20,4 +20,4 @@ test:
 	bin/test
 
 cleanall:
-	rm -fr bin develop-eggs include lib parts downloads eggs
+	rm -fr bin develop-eggs htmlcov include .installed.cfg lib .mr.developer.cfg parts downloads eggs
