@@ -1,3 +1,5 @@
+.. contents::
+
 Introduction
 ============
 
@@ -27,5 +29,4 @@ This addon is tested and has:
     :target: http://travis-ci.org/#!/fngaha/fonplonewebsite
 .. image:: https://coveralls.io/repos/fngaha/fon.plonewebsite/badge.png?branch=master
     :target: https://coveralls.io/r/fngaha/fon.plonewebsite
-.. contents::
 
